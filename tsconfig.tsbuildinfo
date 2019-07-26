@@ -1,0 +1,287 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/pete/work/davo/ts-di/src/di.ts": {
+        "version": "0f0eba68c43df3fb01354a0ddb454ac9565b947773ad7407c0b5c175de0f7c8b",
+        "signature": "1a84cf81946d53f0ad7ec2f32cb9cdba14c46827862ea169b3da3b10b34ddbac"
+      },
+      "/users/pete/work/davo/ts-di/src/di.test.ts": {
+        "version": "d38d9de46f16406bcb6963a1e3b803cd070cac161da64cd19d1fad2d87fd4062",
+        "signature": "7005eca63ee2494e30c99e895d340001f834f9119d5ffa180504fa624d522270"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "bc12492fa90cd2ad3f73c10efa597503dbf59ebac0e3c9728cc10adaad6b0b87",
+        "signature": "bc12492fa90cd2ad3f73c10efa597503dbf59ebac0e3c9728cc10adaad6b0b87"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa",
+        "signature": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
+        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest-diff/index.d.ts": {
+        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
+        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts": {
+        "version": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17",
+        "signature": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest/index.d.ts": {
+        "version": "0b2687f2819f7f50d1f2082900afb0ec9d265ae4b825135beef222f8e16b2c7e",
+        "signature": "0b2687f2819f7f50d1f2082900afb0ec9d265ae4b825135beef222f8e16b2c7e"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "/users/pete/work/davo/ts-di/node_modules/@types/yargs/index.d.ts": {
+        "version": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5",
+        "signature": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5"
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts",
+        "lib.es2017.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "outDir": "/Users/pete/work/DAVO/ts-di/lib",
+      "rootDir": "/Users/pete/work/DAVO/ts-di/src",
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "configFilePath": "/Users/pete/work/DAVO/ts-di/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/pete/work/davo/ts-di/src/di.test.ts": [
+        "/users/pete/work/davo/ts-di/src/di.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__core/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/jest-diff/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__core/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest/index.d.ts": [
+        "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts",
+        "/users/pete/work/davo/ts-di/node_modules/@types/jest-diff/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/pete/work/davo/ts-di/src/di.ts",
+      "/users/pete/work/davo/ts-di/src/di.test.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__template/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/babel__core/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/istanbul-reports/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest-diff/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/types.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/jest/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/stack-utils/index.d.ts",
+      "/users/pete/work/davo/ts-di/node_modules/@types/yargs/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}
