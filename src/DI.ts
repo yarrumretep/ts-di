@@ -11,13 +11,15 @@ type Resolve<P extends Prototype> = {
     [F in keyof P]: ReturnType<P[F]>
 };
 
+let singletonId = 0;
 export function singleton<T>(factory: Factory<T>): Factory<T> {
-    let instance: T | undefined;
+    const id = singletonId++;
     return (ctx: Context) => {
-        if (instance === undefined) {
-            instance = factory(ctx);
+        const registry = (ctx as any).__singletons;
+        if (registry[id] === undefined) {
+            registry[id] = factory(ctx);
         }
-        return instance;
+        return registry[id];
     };
 }
 
@@ -26,8 +28,12 @@ export function instance<T>(instance: T): Factory<T> {
 }
 
 export function context<P extends Prototype>(proto: P): Resolve<P> & Context {
+    const __singletons = {};
     return new Proxy(proto, {
         get: function (target, name, receiver) {
+            if (name === '__singletons') {
+                return __singletons;
+            }
             if (name === 'context') {
                 return receiver;
             }

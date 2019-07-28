@@ -69,6 +69,20 @@ describe("Dependency Injection", () => {
         expect(ctx2.test).toBe("test:dork");
     })
 
+    it('should isolate singletons', () => {
+        const ctx = context({
+            foo: instance("bar"),
+            test: singleton(({ foo }: { foo: string }) => "test:" + foo)
+        })
+
+        const ctx2 = ctx.extend({
+            foo: instance("dork")
+        })
+
+        expect(ctx.test).toBe("test:bar");
+        expect(ctx2.test).toBe("test:dork");
+    })
+
     type Logger = { log: (message: string) => void };
     const testfactory = ({ log, tag }: { log: Logger, tag: string }) => (message: string) => {
         log.log(`${tag}: ${message}`);
