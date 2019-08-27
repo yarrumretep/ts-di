@@ -1,7 +1,7 @@
 
 export interface Context {
     context: this
-    extend<T>(proto: T): T & this
+    extend<T extends Prototype>(proto: T): Resolve<T> & this
     resolve<T>(factory: (ctx: this) => T): T
 }
 
