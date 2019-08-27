@@ -82,11 +82,11 @@
         "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
       },
       "/users/pete/work/davo/ts-di/src/di.ts": {
-        "version": "0f0eba68c43df3fb01354a0ddb454ac9565b947773ad7407c0b5c175de0f7c8b",
-        "signature": "1a84cf81946d53f0ad7ec2f32cb9cdba14c46827862ea169b3da3b10b34ddbac"
+        "version": "1f98fa5673677e6c89af905f970aba02642774f5dd64b6c77a5fe7fa075bfef1",
+        "signature": "fcb8dc2836caed24feab52594150dac422ad9ecf89687cf9a3e4ac7118da4d81"
       },
       "/users/pete/work/davo/ts-di/src/di.test.ts": {
-        "version": "d38d9de46f16406bcb6963a1e3b803cd070cac161da64cd19d1fad2d87fd4062",
+        "version": "cb51493d1a23256be9ca97f4cfd3bf0f8f8362b6b8ff037c0cbb37a624bf2be7",
         "signature": "7005eca63ee2494e30c99e895d340001f834f9119d5ffa180504fa624d522270"
       },
       "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts": {
@@ -264,8 +264,6 @@
       "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.string.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.intl.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "/users/pete/work/davo/ts-di/src/di.ts",
-      "/users/pete/work/davo/ts-di/src/di.test.ts",
       "/users/pete/work/davo/ts-di/node_modules/@babel/types/lib/index.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/@types/babel__generator/index.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/@types/babel__traverse/index.d.ts",
@@ -280,7 +278,9 @@
       "/users/pete/work/davo/ts-di/node_modules/jest-diff/build/index.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/@types/jest/index.d.ts",
       "/users/pete/work/davo/ts-di/node_modules/@types/stack-utils/index.d.ts",
-      "/users/pete/work/davo/ts-di/node_modules/@types/yargs/index.d.ts"
+      "/users/pete/work/davo/ts-di/node_modules/@types/yargs/index.d.ts",
+      "/users/pete/work/davo/ts-di/src/di.ts",
+      "/users/pete/work/davo/ts-di/src/di.test.ts"
     ]
   },
   "version": "3.5.3"
